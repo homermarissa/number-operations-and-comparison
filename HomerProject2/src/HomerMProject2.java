@@ -57,10 +57,10 @@ public class HomerMProject2 {
 		
 		//Using an if/else statement to determine if their new number is greater or not greater than the third number they entered
 		if (newNumber > numberChoice3) {
-			System.out.println(newNumber + " is greater than " + numberChoice3 + "! Which is your third number");
+			System.out.println(newNumber + " is greater than " + numberChoice3 + "! Which is your third number.");
 		}
 		else {
-			System.out.println(newNumber + " is not greater than " + numberChoice3 + "! Which is your third number");
+			System.out.println(newNumber + " is not greater than " + numberChoice3 + "! Which is your third number.");
 		}
 	}
 }
